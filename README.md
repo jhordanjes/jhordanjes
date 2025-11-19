@@ -11,8 +11,8 @@
 ### Sobre mim
 
 <div style="display: inline_block">
-  <p> - 👨‍💻 Desenvolvedor front-end. </p>
-  <p> - 🎯 Interesses: ReactJS, Next, TypeScript, GraphQL, NestJs, AdonisJs. </p>
+  <p> - 👨‍💻 Desenvolvedor full stack. </p>
+  <p> - 🎯 Interesses: ReactJS, Next, TypeScript, GraphQL, NestJs, AdonisJs, Angular. </p>
 </div>
 
 ## Minhas skills :nerd_face:
